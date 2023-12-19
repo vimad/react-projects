@@ -25,16 +25,28 @@
       "id": 17806751
     },
     {
-      "cityName": "Berlin",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "Minuwangoda",
+      "country": "Sri Lanka",
+      "emoji": "🇱🇰",
+      "date": "2023-12-18T10:41:43.556Z",
+      "notes": "",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "7.183183084788628",
+        "lng": "79.92553710937501"
       },
-      "id": 98443197
+      "id": 98443202
+    },
+    {
+      "cityName": "Alcantara",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-12-18T16:55:24.095Z",
+      "notes": "",
+      "position": {
+        "lat": "39.55547729370871",
+        "lng": "-6.987304687500001"
+      },
+      "id": 98443204
     }
   ]
 }
